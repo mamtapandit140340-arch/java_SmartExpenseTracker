@@ -17,14 +17,14 @@ public class Main {
                 System.out.println("2.View Expense :");
                 System.out.println("3.Total spending :");
                 System.out.println("4.EXIT :\n");
-                int choise = 0;
-                while (choise != 4) {
+                int choice = 0;
+                while (choice != 4) {
 
                     System.out.print("Choose Option :");
-                    choise = sc.nextInt();
+                    choice = sc.nextInt();
                     sc.nextLine();
 
-                    switch (choise) {
+                    switch (choice) {
                         case 1:
                             System.out.print("Enter Title :");
                             String title = sc.nextLine();
