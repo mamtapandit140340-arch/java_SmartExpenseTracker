@@ -84,7 +84,6 @@ public class Catagory {
 
 
         else {
-
             return "Other";
         }
     }
