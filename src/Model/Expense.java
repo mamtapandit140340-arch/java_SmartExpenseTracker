@@ -5,7 +5,6 @@
 
 package Model;
 public class Expense {
-
     private int expenseId;
     private int userId;
     private String title;

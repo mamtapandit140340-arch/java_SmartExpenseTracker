@@ -44,7 +44,6 @@ public class Catagory {
             return "Shopping";
         }
 
-
         else if (title.contains("medicine")
                 || title.contains("doctor")
                 || title.contains("hospital")

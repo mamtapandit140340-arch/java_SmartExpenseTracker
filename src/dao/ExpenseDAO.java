@@ -385,7 +385,6 @@ public class ExpenseDAO {
             }
 
         } catch (Exception e) {
-
             System.out.println(
                     "Error while deleting expense: "
                             + e.getMessage()

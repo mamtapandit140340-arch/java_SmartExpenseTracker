@@ -76,7 +76,6 @@ public class Main {
                         Expense expense = new Expense(
                                 userId, title, amount, category, date, description
                         );
-
                         manager.addExpense(expense);
                     break;
 

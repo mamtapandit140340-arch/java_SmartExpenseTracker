@@ -3,7 +3,6 @@ package util;
 import java.sql.*;
 
 public class DBConnection {
-
     private static final String URL =
             "jdbc:mysql://localhost:3306/smart_expense_tracker";
 
