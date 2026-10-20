@@ -4,7 +4,6 @@
 // ============================================================
 
 package Model;
-
 public class Expense {
 
     private int expenseId;

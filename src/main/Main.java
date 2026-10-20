@@ -5,7 +5,6 @@ import Model.Catagory;
 import Model.Catagory.*;
 import Model.Expense;
 import Service.ExpenseManager;
-
 import java.util.Scanner;
 import java.sql.*;
 

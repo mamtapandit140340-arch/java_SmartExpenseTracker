@@ -4,7 +4,6 @@
 // ============================================================
 
 package Model;
-
 public class Catagory {
 
     public static String detectCategory(String title) {
